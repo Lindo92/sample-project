@@ -4,7 +4,7 @@ services:
   postgres:
     image: postgres:14.2-alpine
     ports:
-      - 5432:5432
+      - 5452:5432
     volumes:
       - db:/var/lib/postgresql/data
     environment:
