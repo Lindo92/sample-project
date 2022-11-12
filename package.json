@@ -1,0 +1,22 @@
+{
+  "name": "sample-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lindo92/sample-project.git"
+  },
+  "author": "petra/hannes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lindo92/sample-project/issues"
+  },
+  "homepage": "https://github.com/Lindo92/sample-project#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
